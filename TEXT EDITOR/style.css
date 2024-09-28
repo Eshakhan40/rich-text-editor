@@ -1,0 +1,10 @@
+.text-editor-header{
+    background-color:cadetblue;
+}
+.content{
+    height: 400px;
+   
+}
+.card{
+    box-shadow: 0px 0px 17px -1px #000000;
+}
